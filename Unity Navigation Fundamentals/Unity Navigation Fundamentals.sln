@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Navigation Fundamentals", "Unity Navigation Fundamentals.csproj", "{6A0B65FE-B70D-15C2-A8E0-BF785CF5D787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Navigation Fundamentals.Plugins", "Unity Navigation Fundamentals.Plugins.csproj", "{BA5E54D1-9296-8078-AED5-3B8F842440B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Navigation Fundamentals.Editor", "Unity Navigation Fundamentals.Editor.csproj", "{EB4F3FB6-B0C6-70FA-B11B-76D70E35C929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Navigation Fundamentals.Editor.Plugins", "Unity Navigation Fundamentals.Editor.Plugins.csproj", "{49F551AE-7E88-E70F-1D0D-037E0312715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0B65FE-B70D-15C2-A8E0-BF785CF5D787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0B65FE-B70D-15C2-A8E0-BF785CF5D787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0B65FE-B70D-15C2-A8E0-BF785CF5D787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0B65FE-B70D-15C2-A8E0-BF785CF5D787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5E54D1-9296-8078-AED5-3B8F842440B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5E54D1-9296-8078-AED5-3B8F842440B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5E54D1-9296-8078-AED5-3B8F842440B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5E54D1-9296-8078-AED5-3B8F842440B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4F3FB6-B0C6-70FA-B11B-76D70E35C929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4F3FB6-B0C6-70FA-B11B-76D70E35C929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4F3FB6-B0C6-70FA-B11B-76D70E35C929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4F3FB6-B0C6-70FA-B11B-76D70E35C929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F551AE-7E88-E70F-1D0D-037E0312715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F551AE-7E88-E70F-1D0D-037E0312715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F551AE-7E88-E70F-1D0D-037E0312715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F551AE-7E88-E70F-1D0D-037E0312715D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
